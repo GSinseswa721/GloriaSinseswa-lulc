@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-bastion-384513",
+  "private_key_id": "91097d11f01fbed6b31292c8bcbd357fed380213",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrLPIrqpQ9GmZh\na6Qnqg41l9hlRtieqfU7Z/rbx2GcaUKsIHqjA/vHyzPe8i1r6ilu691cTC2B09d9\nDP2z1t5UwYHJn+CCjdPzh4SG6FwO/JkITVqNPId6ED3atzqYy7EO6P3Ab8FmZPQd\nW32JiBRvjBzUgsvqle704zyRsinQadCpsxVWtx/G7NKqEYUMFVBcwZZ4ZmiS7RvF\ntj8sg9phOkJz87zzCXaBOHWfziFmbMOZ9l9bHIUOwMbwXqMhW5WMgn23XRLSCpFT\n7ugPOeJCzTv2V7+aj1gkBGwf9I+28uFcmLmMjoB6LtQCuPMc68oJrT82QkzTtlmW\nGkfN4dMrAgMBAAECggEABpmiSP5JdchpN7lpYltpSsHP9XAZYPRqab/YCWeniOad\nNQDXxskQTuv5vOa3VtFgteEjr00PAcZfhklXQ9gkJmEazYSNYyhkLXGijtiPB2qK\nOmTbtBs/avENGvZpCcRgfggvKx9+MArEAfX1XEEoHUo7hc0+6phukQ+y4ZVFdhvA\nW+G2kdPIRAoknpqvWFWsDjUzN9l8STGTTvtBhdwsgb3ZygghJrYZso2sheWqcPnp\nAOlObobHVu3F+4Kk3yol93Yyv889qxEmbfttps+5fM1/yBavvVky7/hmWnpEbagA\nRCOlPW1tQz7Vk4TTRIOg4aEbNXvdleVEUVP9bDA0EQKBgQDkszNMj/ian0Qx7TuT\nJPh5Hm3lrtAyw4ppnRHpzcMO3Zt9CaVyMQ7UYPp1MqNsm2NTAx+WB2oha3OcRi1v\ncYNBjwG6xQaXYQOIraGC9od4FNyVSz7UZOr1J79VdsIlCVV9JhiI8agPpIfb+urP\nH6FMHzvDDByFteYZ7p7xdyMz8QKBgQC/m94UPey65MglZefnkUHaLgN1L5QRqqJT\nf9VuMU0fz4vdbFvP1291pT6f8lglMYZRQwMm7wygYz/sOdVvBHCGaEYYxskkSlBo\nlqRDDknhhsGLKxDnvj0hNwfxs1yNRMlx9UbX8Isl2XNdtSl0S/GleADwd0pbTswB\nHV5Cc16k2wKBgDF3LQ5PSYcwEZD27d7KrU+NLFn0cKW6M5LaXUiDr7/kYMAvuPA0\n+i8ndqSouj5AccA/ubI6klL+KbhQWX10QN6KLuaVvPI7EoeafoeUCQMJCBjmeIV5\n+nPiD/lNQXq/RRVXixD7q80OWjBTWjxIbBvJ2aQ7V2P4Tvem7AvwJ9YRAoGAFa6V\nmsTHHP72hwTZESMmyIGcco5HuxgL9lbo1+dMSuU5dnzkhshiHHXueDr8LnlEMb3b\nhXRXgW65tQl2VXGzKgJyrCsSZ8DhCHTDcbMUOSj+jbj52L92O2P2yir5tiKqiPKw\naY8Wr9nDbD8rybUuSwMhWBSnnV11SEsCd5KGizECgYEA0NW4RygW/mae4DUu9A+l\nbUtSiKiL56FXdMKI0ETu31jbMzt8IOn344fkWbMQa4FthlXjkjNLo9i3yu2lKk5s\nKAsO0VhkIRUhBQvcDKXvuloDSd60Isqkd7r7U+xwgWm0hFWRHA+1EjetEE8HmDlP\nLRQJBIY4PoAM0n/mJcAHFNE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ml4eo-module5@bubbly-bastion-384513.iam.gserviceaccount.com",
+  "client_id": "115565912022034304385",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ml4eo-module5%40bubbly-bastion-384513.iam.gserviceaccount.com"
+}
